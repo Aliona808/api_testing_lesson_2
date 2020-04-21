@@ -1,4 +1,2 @@
-# Postman: Lesson-2
-postman-trello-crud
-
-
+# Testing of Trello REST API by Postman: 
+CRUD mnemonics.
